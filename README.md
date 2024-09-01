@@ -4,6 +4,14 @@ I'm a proud graduate with a Bachelor's degree in Information Technology, and I t
 ## 🛠️ My Tech Stack
 I'm proficient in a diverse set of tools and technologies that help me build engaging and efficient digital experiences:
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ## 🚀 What Drives Me
 I believe in the power of technology to transform lives and bring innovative ideas to fruition. Whether I'm working on cross-platform mobile apps with Flutter or crafting responsive web interfaces, I aim to deliver seamless and impactful user experiences.
@@ -12,15 +20,8 @@ I believe in the power of technology to transform lives and bring innovative ide
 I'm a lifelong learner, constantly seeking out new challenges and opportunities to grow. I enjoy experimenting with cutting-edge technologies, contributing to open-source projects, and engaging with the developer community.
 
 
-## My Skills
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 
 
