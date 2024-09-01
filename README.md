@@ -6,6 +6,7 @@ I thrive at the intersection of creativity and technology. With a knack for prob
 
 ## 🛠️ Tech Stack & Tools
 I enjoy working with a variety of technologies to bring ideas to life. Here are some of the tools and languages that I use:
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
