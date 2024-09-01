@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+ I'm Mustafa Mansuor, a Bachelor of Information Technology graduate with a passion for building sleek and efficient digital experiences. As a Flutter and frontend developer, I specialize in crafting cross-platform mobile apps and responsive web interfaces that provide seamless user experiences.
+
+I love turning ideas into real-world applications, and I'm always eager to learn new technologies and improve my skills. Feel free to explore my repositories to see what I've been working on, and don't hesitate to reach out if you'd like to collaborate on a project!
+
+Skills 
+
+
 <!--
 **triplem20/triplem20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
