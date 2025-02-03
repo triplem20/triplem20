@@ -1,5 +1,5 @@
 ## Hello, World! I'm Mustafa Mansuor 🌍
-I'm a passionate tech enthusiast with a Bachelor's degree in Information Technology. My journey in the digital realm revolves around creating intuitive and dynamic user experiences through code. As a Flutter and frontend developer, I specialize in transforming creative ideas into impactful applications that work seamlessly across devices.
+I'm a passionate tech enthusiast with a Bachelor's degree in Information Technology. My journey in the digital realm revolves around creating intuitive and dynamic user experiences through code. As a Flutter and FullStack developer, I specialize in transforming creative ideas into impactful applications that work seamlessly across devices.
 
 ## 🚀 My Developer Journey
 I thrive at the intersection of creativity and technology. With a knack for problem-solving and a love for clean, efficient code, I've honed my skills in Flutter to build beautiful, responsive mobile apps. Whether it's crafting engaging interfaces or optimizing performance, I'm always looking for new challenges that push the boundaries of what's possible.
